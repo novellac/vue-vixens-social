@@ -1,7 +1,13 @@
 # Vue Vixens on Social Media
 A list of Vue Vixens to follow, and where they may be skulking on the interwebs.
 
-## Credit & Contribution
+## :crown: Who is a Vue Vixen? :crown:
+According to the [Vue Vixens](https://vuevixens.org/) mission statement, Vue Vixens are "foxy people who identify as women and who want to learn Vue.js to make websites and mobile apps" (you can read more about us on our [About Page](https://vuevixens.org/about)). This repo is a list of Vue Vixens.
+
+## :loudspeaker: Calling All Allies! :loudspeaker:
+If you don't identify as a woman, but would like to support Vue Vixens, *welcome*! We welcome anyone to contribute content, help mentor at a workshop, and spread the word. In addition, you can keep up with us on the web via our [newsletter](https://tinyletter.com/VueVixens) and on [Twitter](https://twitter.com/VueVixens). 
+
+## :angel: Credit & Contribution :angel:
 This list is inspired by [Lady Leet] (https://github.com/ladyleet)'s fempire list. If you'd like to add a Vue Vixen to this repo, you are welcome to make a PR. Please try to keep the formatting and keep things in alphabetical order. 
 
 If you are new to Github, have a look at the [codeburst.io](https://codeburst.io/) article, [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940). 
