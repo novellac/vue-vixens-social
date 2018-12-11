@@ -18,7 +18,11 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@FilipaLacerda](https://twitter.com/FilipaLacerda)
 
-[lauragift21](https://twitter.com/lauragift21)
+[@ladyleet](https://twitter.com/ladyleet)
+
+[@lauragift21](https://twitter.com/lauragift21)
+
+[@lilnayners](https://twitter.com/lilnayners)
 
 [@giselleperez91](https://twitter.com/giselleperez91)
 
