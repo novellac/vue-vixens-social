@@ -9,13 +9,23 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 ***
 
 [@ASpittel](https://twitter.com/ASpittel)
+
 [@BeerAndBlank](https://twitter.com/BeerAndBlank)
+
 [cotufa82](https://twitter.com/cotufa82)
+
 [@echdee](https://twitter.com/echdee)
+
 [@FilipaLacerda](https://twitter.com/FilipaLacerda)
+
 [@giselleperez91](https://twitter.com/giselleperez91)
+
 [@jenlooper](https://twitter.com/jenlooper)
+
 [@MarinaMosti](https://twitter.com/MarinaMosti)
+
 [@N_Tepluhina](https://twitter.com/N_Tepluhina)
+
 [@radhikamorabia](https://twitter.com/radhikamorabia)
+
 [@vicbergquist](https://twitter.com/vicbergquist)
