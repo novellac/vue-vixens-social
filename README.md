@@ -52,4 +52,4 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 
 ## Awesome Allies
-[ianaya89](https://twitter.com/ianaya89)
+[@ianaya89](https://twitter.com/ianaya89)
