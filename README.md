@@ -26,6 +26,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@N_Tepluhina](https://twitter.com/N_Tepluhina)
 
+[@novelladev](https://twitter.com/novelladev)
+
 [@radhikamorabia](https://twitter.com/radhikamorabia)
 
 [@vicbergquist](https://twitter.com/vicbergquist)
