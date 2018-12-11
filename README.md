@@ -14,6 +14,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 ***
 
+## Vue Vixens
+
 [@ASpittel](https://twitter.com/ASpittel)
 
 [@BeerAndBlank](https://twitter.com/BeerAndBlank)
@@ -47,3 +49,7 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 [@vicbergquist](https://twitter.com/vicbergquist)
 
 [@VueVixensNC](https://twitter.com/VueVixensNC)
+
+
+## Awesome Allies
+[ianaya89](https://twitter.com/ianaya89)
