@@ -39,3 +39,5 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 [@radhikamorabia](https://twitter.com/radhikamorabia)
 
 [@vicbergquist](https://twitter.com/vicbergquist)
+
+[@VueVixensNC](https://twitter.com/VueVixensNC)
