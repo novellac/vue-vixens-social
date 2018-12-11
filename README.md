@@ -12,7 +12,7 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@BeerAndBlank](https://twitter.com/BeerAndBlank)
 
-[cotufa82](https://twitter.com/cotufa82)
+[@cotufa82](https://twitter.com/cotufa82)
 
 [@echdee](https://twitter.com/echdee)
 
