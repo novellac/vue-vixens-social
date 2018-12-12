@@ -28,6 +28,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@FilipaLacerda](https://twitter.com/FilipaLacerda)
 
+[@kaveeter](https://twitter.com/kaveeter)
+
 [@ladyleet](https://twitter.com/ladyleet)
 
 [@lauragift21](https://twitter.com/lauragift21)
