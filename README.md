@@ -50,6 +50,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@VueVixensNC](https://twitter.com/VueVixensNC)
 
+[@whatsupanna](https://twitter.com/whatsupanna)
+
 
 ## Awesome Allies
 [@ianaya89](https://twitter.com/ianaya89)
