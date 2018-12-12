@@ -50,6 +50,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 ## Vue Vixens Chapters
 
+[@VueVixensDC](https://twitter.com/VueVixensDC)
+
 [@VueVixensNC](https://twitter.com/VueVixensNC)
 
 
