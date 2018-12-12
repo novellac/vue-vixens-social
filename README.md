@@ -8,11 +8,41 @@ According to the [Vue Vixens](https://vuevixens.org/) mission statement, Vue Vix
 If you don't identify as a woman, but would like to support Vue Vixens, *welcome*! We welcome anyone to contribute content, help mentor at a workshop, and spread the word. In addition, you can keep up with us on the web via our [newsletter](https://tinyletter.com/VueVixens) and on [Twitter](https://twitter.com/VueVixens). 
 
 ## :angel: Credit & Contribution :angel:
-This list is inspired by [Lady Leet] (https://github.com/ladyleet)'s fempire list. If you'd like to add a Vue Vixen to this repo, you are welcome to make a PR. Please try to keep the formatting and keep things in alphabetical order. 
+This list is inspired by [Lady Leet's](https://github.com/ladyleet) [fempire](https://github.com/fempire/women-tech-speakers-organizers) list. If you'd like to add a Vue Vixen to this repo, you are welcome to make a PR. Please try to keep the formatting and keep things in alphabetical order. 
 
 If you are new to Github, have a look at the [codeburst.io](https://codeburst.io/) article, [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940). 
 
 ***
+## Vue Vixens Worldwide Chapters
+
+[@vuevixens](https://twitter.com/vuevixens) - 🦊 Vue Vixens Official Twitter Account
+
+[@vuevixensAR](https://twitter.com/vuevixens) - 🇦🇷 Argentina
+
+[@vuevixensBR](https://twitter.com/vuevixens) - 🇧🇷 Brazil
+
+[@vuevixensCA](https://twitter.com/vuevixens) - 🇨🇦 Canada
+
+[@vuevixensDC](https://twitter.com/vuevixens) - 🇺🇸 DC Chapter
+
+[@vuevixensDE](https://twitter.com/vuevixens) - 🇩🇪 Germany
+
+[@vuevixensESP](https://twitter.com/vuevixens) - 🇪🇸Spain
+
+[@vuevixensMI](https://twitter.com/vuevixens) - 🇺🇸 Michigan Chapter
+
+[@vuevixensMU](https://twitter.com/vuevixens) - 🇲🇺 Mauritius
+
+[@vuevixensMX](https://twitter.com/vuevixens) - 🇲🇽 Mexico
+
+[@vuevixensNC](https://twitter.com/vuevixens) - 🇺🇸 North Carolina Chapter
+
+[@vuevixensNG](https://twitter.com/vuevixens) - 🇳🇬 Nigeria
+
+[@vuevixensPE](https://twitter.com/vuevixens) - 🇵🇪 Peru
+
+[@vuevixensSE](https://twitter.com/vuevixens) - 🇸🇪 Sweden
+
 
 ## Vue Vixens
 
@@ -42,9 +72,13 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@N_Tepluhina](https://twitter.com/N_Tepluhina)
 
+[@NikkitaFTW](https://twitter.com/nikkitaftw)
+
 [@novelladev](https://twitter.com/novelladev)
 
 [@radhikamorabia](https://twitter.com/radhikamorabia)
+
+[@sarah_edo](https://twitter.com/sarah_edo)
 
 [@vicbergquist](https://twitter.com/vicbergquist)
 
@@ -52,6 +86,10 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 
 ## Awesome Allies
+[@bencodezen](https://twitter.com/bencodezen)
+
 [@ianaya89](https://twitter.com/ianaya89)
+
+[@M_Blayer](https://twitter.com/m_blayer)
 
 [@saltnburnem](https://twitter.com/saltnburnem)
