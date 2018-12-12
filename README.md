@@ -48,6 +48,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@vicbergquist](https://twitter.com/vicbergquist)
 
+## Vue Vixens Chapters
+
 [@VueVixensNC](https://twitter.com/VueVixensNC)
 
 
