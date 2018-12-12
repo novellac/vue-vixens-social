@@ -17,31 +17,31 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@vuevixens](https://twitter.com/vuevixens) - 🦊 Vue Vixens Official Twitter Account
 
-[@vuevixensAR](https://twitter.com/vuevixens) - 🇦🇷 Argentina
+[@vuevixensAR](https://twitter.com/vuevixensAR) - 🇦🇷 Argentina
 
-[@vuevixensBR](https://twitter.com/vuevixens) - 🇧🇷 Brazil
+[@vuevixensBR](https://twitter.com/vuevixensBR) - 🇧🇷 Brazil
 
-[@vuevixensCA](https://twitter.com/vuevixens) - 🇨🇦 Canada
+[@vuevixensCA](https://twitter.com/vuevixensCA) - 🇨🇦 Canada
 
-[@vuevixensDC](https://twitter.com/vuevixens) - 🇺🇸 DC Chapter
+[@vuevixensDC](https://twitter.com/VueVixensDC) - 🇺🇸 DC Chapter
 
-[@vuevixensDE](https://twitter.com/vuevixens) - 🇩🇪 Germany
+[@vuevixensDE](https://twitter.com/vuevixensDE) - 🇩🇪 Germany
 
-[@vuevixensESP](https://twitter.com/vuevixens) - 🇪🇸Spain
+[@vuevixensESP](https://twitter.com/vuevixensESP) - 🇪🇸Spain
 
-[@vuevixensMI](https://twitter.com/vuevixens) - 🇺🇸 Michigan Chapter
+[@vuevixensMI](https://twitter.com/vuevixensMI) - 🇺🇸 Michigan Chapter
 
-[@vuevixensMU](https://twitter.com/vuevixens) - 🇲🇺 Mauritius
+[@vuevixensMU](https://twitter.com/vuevixensMU) - 🇲🇺 Mauritius
 
-[@vuevixensMX](https://twitter.com/vuevixens) - 🇲🇽 Mexico
+[@vuevixensMX](https://twitter.com/vuevixensMX) - 🇲🇽 Mexico
 
-[@vuevixensNC](https://twitter.com/vuevixens) - 🇺🇸 North Carolina Chapter
+[@vuevixensNC](https://twitter.com/VueVixensNC) - 🇺🇸 North Carolina Chapter
 
-[@vuevixensNG](https://twitter.com/vuevixens) - 🇳🇬 Nigeria
+[@vuevixensNG](https://twitter.com/vuevixensNG) - 🇳🇬 Nigeria
 
-[@vuevixensPE](https://twitter.com/vuevixens) - 🇵🇪 Peru
+[@vuevixensPE](https://twitter.com/vuevixensPE) - 🇵🇪 Peru
 
-[@vuevixensSE](https://twitter.com/vuevixens) - 🇸🇪 Sweden
+[@vuevixensSE](https://twitter.com/vuevixensSE) - 🇸🇪 Sweden
 
 
 ## Vue Vixens
@@ -85,12 +85,6 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 [@sarah_edo](https://twitter.com/sarah_edo)
 
 [@vicbergquist](https://twitter.com/vicbergquist)
-
-## Vue Vixens Chapters
-
-[@VueVixensDC](https://twitter.com/VueVixensDC)
-
-[@VueVixensNC](https://twitter.com/VueVixensNC)
 
 [@whatsupanna](https://twitter.com/whatsupanna)
 
