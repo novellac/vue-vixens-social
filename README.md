@@ -60,6 +60,10 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@FilipaLacerda](https://twitter.com/FilipaLacerda)
 
+[@giselleperez91](https://twitter.com/giselleperez91)
+
+[@ingdalvarez](https://twitter.com/ingdalvarez)
+
 [@kaveeter](https://twitter.com/kaveeter)
 
 [@ladyleet](https://twitter.com/ladyleet)
@@ -67,8 +71,6 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 [@lauragift21](https://twitter.com/lauragift21)
 
 [@lilnayners](https://twitter.com/lilnayners)
-
-[@giselleperez91](https://twitter.com/giselleperez91)
 
 [@jenlooper](https://twitter.com/jenlooper)
 
