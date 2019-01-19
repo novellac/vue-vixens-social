@@ -23,6 +23,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@vuevixensCA](https://twitter.com/vuevixensCA) - 🇨🇦 Canada
 
+[@vuevixensCO](https://twitter.com/vuevixensCO) - 🇨🇴 Colombia
+
 [@vuevixensDC](https://twitter.com/VueVixensDC) - 🇺🇸 DC Chapter
 
 [@vuevixensDE](https://twitter.com/vuevixensDE) - 🇩🇪 Germany
