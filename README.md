@@ -60,6 +60,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@cotufa82](https://twitter.com/cotufa82)
 
+[@cydstumpel](https://twitter.com/cydstumpel)
+
 [@echdee](https://twitter.com/echdee)
 
 [@FilipaLacerda](https://twitter.com/FilipaLacerda)
