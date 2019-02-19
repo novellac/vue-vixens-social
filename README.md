@@ -1,18 +1,23 @@
 # Vue Vixens on Social Media
+
 A list of Vue Vixens to follow, and where they may be skulking on the interwebs.
 
 ## :crown: Who is a Vue Vixen? :crown:
+
 According to the [Vue Vixens](https://vuevixens.org/) mission statement, Vue Vixens are "foxy people who identify as women and who want to learn Vue.js to make websites and mobile apps" (you can read more about us on our [About Page](https://vuevixens.org/about)). This repo is a list of Vue Vixens.
 
 ## :loudspeaker: Calling All Allies! :loudspeaker:
-If you don't identify as a woman, but would like to support Vue Vixens, *welcome*! We welcome anyone to contribute content, help mentor at a workshop, and spread the word. In addition, you can keep up with us on the web via our [newsletter](https://tinyletter.com/VueVixens) and on [Twitter](https://twitter.com/VueVixens). 
+
+If you don't identify as a woman, but would like to support Vue Vixens, _welcome_! We welcome anyone to contribute content, help mentor at a workshop, and spread the word. In addition, you can keep up with us on the web via our [newsletter](https://tinyletter.com/VueVixens) and on [Twitter](https://twitter.com/VueVixens).
 
 ## :angel: Credit & Contribution :angel:
-This list is inspired by [Lady Leet's](https://github.com/ladyleet) [fempire](https://github.com/fempire/women-tech-speakers-organizers) list. If you'd like to add a Vue Vixen to this repo, you are welcome to make a PR. Please try to keep the formatting and keep things in alphabetical order. 
 
-If you are new to Github, have a look at the [codeburst.io](https://codeburst.io/) article, [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940). 
+This list is inspired by [Lady Leet's](https://github.com/ladyleet) [fempire](https://github.com/fempire/women-tech-speakers-organizers) list. If you'd like to add a Vue Vixen to this repo, you are welcome to make a PR. Please try to keep the formatting and keep things in alphabetical order.
 
-***
+If you are new to Github, have a look at the [codeburst.io](https://codeburst.io/) article, [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940).
+
+---
+
 ## Vue Vixens Worldwide Chapters
 
 [@vuevixens](https://twitter.com/vuevixens) - 🦊 Vue Vixens Official Twitter Account
@@ -45,7 +50,6 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@vuevixensSE](https://twitter.com/vuevixensSE) - 🇸🇪 Sweden
 
-
 ## Vue Vixens
 
 [@ASpittel](https://twitter.com/ASpittel)
@@ -56,6 +60,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@cotufa82](https://twitter.com/cotufa82)
 
+[@cydstumpel](https://twitter.com/cydstumpel)
+
 [@echdee](https://twitter.com/echdee)
 
 [@FilipaLacerda](https://twitter.com/FilipaLacerda)
@@ -63,6 +69,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 [@giselleperez91](https://twitter.com/giselleperez91)
 
 [@ingdalvarez](https://twitter.com/ingdalvarez)
+
+[@jenlooper](https://twitter.com/jenlooper)
 
 [@kaveeter](https://twitter.com/kaveeter)
 
@@ -72,7 +80,7 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@lilnayners](https://twitter.com/lilnayners)
 
-[@jenlooper](https://twitter.com/jenlooper)
+[@lynnewritescode](https://twitter.com/lynnewritescode)
 
 [@MarinaMosti](https://twitter.com/MarinaMosti)
 
@@ -92,10 +100,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@whatsupanna](https://twitter.com/whatsupanna)
 
-[@cydstumpel](https://twitter.com/cydstumpel)
-
-
 ## Awesome Allies
+
 [@bencodezen](https://twitter.com/bencodezen)
 
 [@ianaya89](https://twitter.com/ianaya89)
