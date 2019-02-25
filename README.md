@@ -74,9 +74,13 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@FilipaLacerda](https://twitter.com/FilipaLacerda)
 
+[@Flor_IBG](https://twitter.com/Flor_IBG)
+
 [@giselleperez91](https://twitter.com/giselleperez91)
 
 [@ingdalvarez](https://twitter.com/ingdalvarez)
+
+[@jackieechanchan](https://twitter.com/jackieechanchan)
 
 [@jenlooper](https://twitter.com/jenlooper)
 
