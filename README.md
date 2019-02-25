@@ -24,6 +24,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@vuevixensAR](https://twitter.com/vuevixensAR) - 🇦🇷 Argentina
 
+[@vuevixensBE](https://twitter.com/vuevixensBE) - 🇧🇪 Belgium
+
 [@vuevixensBR](https://twitter.com/vuevixensBR) - 🇧🇷 Brazil
 
 [@vuevixensCA](https://twitter.com/vuevixensCA) - 🇨🇦 Canada
@@ -47,6 +49,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 [@vuevixensNG](https://twitter.com/vuevixensNG) - 🇳🇬 Nigeria
 
 [@vuevixensPE](https://twitter.com/vuevixensPE) - 🇵🇪 Peru
+
+[@vuevixensSCT](https://twitter.com/vuevixensSCT) - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 
 [@vuevixensSE](https://twitter.com/vuevixensSE) - 🇸🇪 Sweden
 
