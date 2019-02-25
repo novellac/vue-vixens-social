@@ -68,6 +68,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@echdee](https://twitter.com/echdee)
 
+[@essk](https://twitter.com/essk)
+
 [@FilipaLacerda](https://twitter.com/FilipaLacerda)
 
 [@giselleperez91](https://twitter.com/giselleperez91)
