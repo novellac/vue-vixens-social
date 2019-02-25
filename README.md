@@ -56,6 +56,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 ## Vue Vixens
 
+[@alineverc](https://twitter.com/alineverc)
+
 [@ASpittel](https://twitter.com/ASpittel)
 
 [@BeerAndBlank](https://twitter.com/BeerAndBlank)
