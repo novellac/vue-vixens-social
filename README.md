@@ -38,13 +38,13 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@vuevixensESP](https://twitter.com/vuevixensESP) - 🇪🇸Spain
 
-[@vuevixensMU](https://twitter.com/vuevixensMU) - 🇲🇺 Mauritius
-
-[@vuevixensMX](https://twitter.com/vuevixensMX) - 🇲🇽 Mexico
-
 [@vuevixensMI](https://twitter.com/vuevixensMI) - 🇺🇸 Michigan Chapter
 
 [@vuevixensMN](https://twitter.com/vuevixensMN) - 🇺🇸 Minnesota Chapter
+
+[@vuevixensMU](https://twitter.com/vuevixensMU) - 🇲🇺 Mauritius
+
+[@vuevixensMX](https://twitter.com/vuevixensMX) - 🇲🇽 Mexico
 
 [@vuevixensNC](https://twitter.com/VueVixensNC) - 🇺🇸 North Carolina Chapter
 
