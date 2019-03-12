@@ -116,6 +116,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@whatsupanna](https://twitter.com/whatsupanna)
 
+[@ratracegrad](https://twitter.com/ratracegrad)
+
 ## Awesome Allies
 
 [@bencodezen](https://twitter.com/bencodezen)
