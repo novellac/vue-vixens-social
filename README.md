@@ -90,6 +90,8 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@kaveeter](https://twitter.com/kaveeter)
 
+[@kristinruben](https://twitter.com/kristinruben)
+
 [@ladyleet](https://twitter.com/ladyleet)
 
 [@lauragift21](https://twitter.com/lauragift21)
@@ -110,13 +112,15 @@ If you are new to Github, have a look at the [codeburst.io](https://codeburst.io
 
 [@radhikamorabia](https://twitter.com/radhikamorabia)
 
+[@ratracegrad](https://twitter.com/ratracegrad)
+
 [@sarah_edo](https://twitter.com/sarah_edo)
+
+[@the_happy_coder](https://twitter.com/the_happy_coder)
 
 [@vicbergquist](https://twitter.com/vicbergquist)
 
 [@whatsupanna](https://twitter.com/whatsupanna)
-
-[@ratracegrad](https://twitter.com/ratracegrad)
 
 ## Awesome Allies
 
